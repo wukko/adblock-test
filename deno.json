@@ -1,0 +1,13 @@
+{
+    "unstable": ["fmt-component"],
+    "nodeModulesDir": "auto",
+    "fmt": {
+        "indentWidth": 4,
+        "lineWidth": 100,
+        "trailingCommas": "onlyMultiLine",
+        "operatorPosition": "nextLine"
+    },
+    "compilerOptions": {
+        "lib": ["dom", "esnext"]
+    }
+}
