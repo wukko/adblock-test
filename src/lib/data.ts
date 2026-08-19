@@ -405,7 +405,7 @@ export const DATA: HostData = {
 };
 
 export const COSMETIC_BAITS: CosmeticBait[] = [
-    { key: "adsbox", rule: "##.adsbox", className: "adsbox" },
+    { key: "adsbox", rule: "###adsbox", id: "adsbox" },
     { key: "adbox_upper", rule: "##.ADBox", className: "ADBox" },
     { key: "adbox_wrapper", rule: "##.adbox-wrapper", className: "adbox-wrapper" },
     { key: "ad_space", rule: "##.ad-space", className: "ad-space" },
